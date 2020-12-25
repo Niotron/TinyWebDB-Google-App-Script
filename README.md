@@ -4,7 +4,7 @@ for FREE to use it in your projects.
 
 ---
 
-We are going to expain this setup process in **4 simple steps**
+We are going to expain this setup process in **3 simple steps**
 1. [Create a spreadsheet](#1-create-a-spreadsheet)
 2. [Deploying the script](#2-deploying-the-server)
 3. [Version Configuration on Service URL](#3-version-configuration-on-service-url)
